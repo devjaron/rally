@@ -35,6 +35,6 @@
 
 ## Current Status: MVP
 - **Work in Progress:** Rally is current in its Minimum Viable Product phase.
-**✅ Live:** Core mapping, location services, tee time posting, and real-time sync.
-**🚧 In Progress:** Payment processing, advanced handicap stats, user verification, and profile editing.
-**📅 Roadmap:** To be determined. 
+- **✅ Live:** Core mapping, location services, tee time posting, and real-time sync.
+- **🚧 In Progress:** Payment processing, advanced handicap stats, user verification, and profile editing.
+- **📅 Roadmap:** To be determined. 
